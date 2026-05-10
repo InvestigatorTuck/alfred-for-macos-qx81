@@ -1,4 +1,4 @@
-
+Alfred for macOS updated Script - goal tracking and database templates offers the most advanced Alfred for macOS script, with goal tracking and database templates. Ideal for
 
 
 
